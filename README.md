@@ -6,7 +6,9 @@ A lightweight always-on-top countdown timer that floats over your desktop. Built
 
 *Originally made around June 2024*
 
-![Countdown Timer](media/preview.png)
+<p align="center">
+  <img src="media/preview.png" alt="Countdown Timer" />
+</p>
 
 ---
 
